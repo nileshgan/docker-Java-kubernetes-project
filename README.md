@@ -13,7 +13,7 @@ Deploy the application onto the Kubernetes cluster (Minikube).
 
 **Pre-requisite:-**
 
-Java Application
-Docker Installed
-Kubernetes Cluster
+Java Application,
+Docker Installed,
+Kubernetes Cluster,
 Basic knowledge of Docker, Maven and Kubernetes.
