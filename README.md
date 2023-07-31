@@ -1,8 +1,6 @@
 # docker-Java-kubernetes-project
 Deploying Java Applications with Docker and Kubernetes
 
-Credit: https://github.com/danielbryantuk/oreilly-docker-java-shopping/
-
 **Project Overview:-**
 
 As a developer, you will commit your code to Git repository. Now you have your whole project on Git Hub (central repository) and if it is public so anyone can access that code on his local machine with the help of git clone operation.
